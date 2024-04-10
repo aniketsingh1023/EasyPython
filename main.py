@@ -8,4 +8,4 @@ else:
   print("when did india get its independence?")
   year = int(input())
   if(year == 1947):
-    print("you got it!")
+    print("you got it! huzzah")
